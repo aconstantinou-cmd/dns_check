@@ -32,6 +32,3 @@ python dnscheck.py example.com ip_list.txt
 
 
 This will run the DNS recon command for the `example.com` domain and check the resulting domains and IPs against the IPs listed in the `ip_list.txt` file.
-
-
-![screenshot](screenshot.png)
